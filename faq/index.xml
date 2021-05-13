@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Frequently Asked Questions on Brock Library Digital Learning</title>
-    <link>https://examplesite.com/faq/</link>
+    <link>https://calmurgu.com/brock-IL/faq/</link>
     <description>Recent content in Frequently Asked Questions on Brock Library Digital Learning</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Copyright © 2021. Site managed by eLearning Team. Site built using Hugo, Dot theme by [Themefisher](https://github.com/themefisher/dot-hugo-documentation-theme)</copyright><atom:link href="https://examplesite.com/faq/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Copyright © 2021. Site managed by eLearning Team. Site built using Hugo, Dot theme by [Themefisher](https://github.com/themefisher/dot-hugo-documentation-theme)</copyright><atom:link href="https://calmurgu.com/brock-IL/faq/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
